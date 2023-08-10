@@ -6,7 +6,7 @@ Data Analyst | 10 yr in Quality Analyst
 
 With 10yr of experience extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress as a Quality Analyst. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to venture into the DATA field as Data Analyst. 
 
-Skills: 
+**Skills**: 
 Advanced understanding SQL, Python language , EDA , Power BI , Snowflake 
 Intermediate understanding to Statistics , Tableau 
 Experience working in Agile environment , Management tools , GIT, 
