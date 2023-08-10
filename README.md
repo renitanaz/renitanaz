@@ -12,13 +12,15 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 - Good understanding to Statistics , Tableau 
 - Experience working in Agile environment , Management tools , GIT
 - Proven capabilities in Presentation, Strong communication, team management , training peers
-- Exposure to collaborating tools like Jira,Confluence  
+- Exposure to collaborating tools like Jira,Confluence
+- Aquired skills : Quality, accuracy , eye for details
 
-* ✉️  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
+**Working on**
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
-* 🧠  I'm currently learning R, Predictive Analytics, Domain knowledge - Finance, Marketing
-* 💬 Ask me about Quality, accuracy.
-* 🤝  I'm open to collaborating on helping the fellow data newbie and building communities
+* 🧠  I'm currently learning R, Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
+  
+* 💬  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
+* 🤝  I'm open to collaborating on helping the fellow data newbie and build data communities
   
 * ⚡  Pssst.... Other than data, I love travelling, crafting, soaping, running, Trill rides
 
