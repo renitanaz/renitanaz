@@ -1,19 +1,19 @@
-Hi, My name is Renita Nazareth
+# Hi, My name is Renita Nazareth
 =======================================================================================================================================
 
-Data Analyst | 10 yr in Quality Analyst 
+# Data Analyst | 10 yr in Quality Analyst 
 ---------------------------------------
 
 With 10yr of experience extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress as a Quality Analyst. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to venture into the DATA field as Data Analyst. 
 
 ## Skills: 
-- On job exposure in ** SQL, Python, MongoDB**
-- Advanced skills in** EDA , Power BI , Snowflake **
-- Good understanding to **Statistics , Tableau **
+- On job exposure in **SQL, Python, MongoDB**
+- Advanced skills in **EDA , Power BI , Snowflake**
+- Good understanding to **Statistics , Tableau**
 - Experience working in **Agile environment , Management tools , GIT**
-- Proven capabilities in ** Presentation, Strong communication, team management , training peers**
+- Proven capabilities in **Presentation, Strong communication, team management , training peers**
 - Exposure to collaborating tools like **Jira,Confluence**
-- Aquired skills :** Quality, accuracy , eye for details**
+- Aquired skills :**Quality, accuracy , eye for details**
 
 ## Working on
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
