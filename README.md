@@ -4,7 +4,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Data Analyst | 10 yr in Quality Analyst
 ---------------------------------------
 
-With 10yr of experience extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress as a Quality Analyst. My inclination towards data ,my spark for SQL and my exposure to QlikView has inspired me to pick up skills like Power BI, Tableau , Snowflake , AWS to venture into the DATA field as Data Analyst. Skills: Advanced understanding SQL, Python language , EDA , Power BI , Snowflake Intermediate understanding to Statistics , Tableau Experience working in Agile environment , Management tools , GIT, Proven capabilities in Presentation, Strong communication, team management , training
+With 10yr of experience extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress as a Quality Analyst. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to venture into the DATA field as Data Analyst. Skills: Advanced understanding SQL, Python language , EDA , Power BI , Snowflake Intermediate understanding to Statistics , Tableau Experience working in Agile environment , Management tools , GIT, Proven capabilities in Presentation, Strong communication, team management , training
 
 * ✉️  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
