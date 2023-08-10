@@ -18,7 +18,8 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 ## Working on
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
 * 🧠  I'm currently learning R, Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
-  
+
+## 
 * 💬  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
 * 🤝  I'm open to collaborating on helping the fellow data newbie and build data communities
   
