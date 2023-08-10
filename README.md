@@ -7,11 +7,12 @@ Data Analyst | 10 yr in Quality Analyst
 With 10yr of experience extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress as a Quality Analyst. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to venture into the DATA field as Data Analyst. 
 
 **Skills**: 
-Advanced skills in SQL, Python , EDA , Power BI , Snowflake 
-Good understanding to Statistics , Tableau 
-Experience working in Agile environment , Management tools , GIT
-Proven capabilities in Presentation, Strong communication, team management , training peers
-Exposure to collaborating tools like Jira,Confluence  
+- On job exposure in  SQL, Python, MongoDB
+- Advanced skills in EDA , Power BI , Snowflake 
+- Good understanding to Statistics , Tableau 
+- Experience working in Agile environment , Management tools , GIT
+- Proven capabilities in Presentation, Strong communication, team management , training peers
+- Exposure to collaborating tools like Jira,Confluence  
 
 * ✉️  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
