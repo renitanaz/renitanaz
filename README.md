@@ -24,9 +24,9 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 * 🤝  I'm open to collaborating on helping the fellow data newbie and build data communities
   
 * ⚡  Pssst.... Other than data, I love travelling, crafting, soaping, running, Trill rides
+##
 
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/renitanaz/renitanaz/blob/6e60075b2b7858951f5896640f1d2d21bf6296d5/SkillImages/git.png" width="45" height="36" alt="Git" /></a>
