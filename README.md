@@ -26,7 +26,7 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 * ⚡  Pssst.... Other than data, I love travelling, crafting, soaping, running, Trill rides
 ##
 
-### Skills
+### Tools of Trade
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/renitanaz/renitanaz/blob/6e60075b2b7858951f5896640f1d2d21bf6296d5/SkillImages/git.png" width="45" height="36" alt="Git" /></a>
@@ -38,7 +38,7 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 </p>
 
 
-### Socials
+### Reach me on
 
 <p align="left"> <a href="https://www.github.com/renitanaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/renita-nazareth-16aba590/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
