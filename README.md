@@ -4,7 +4,7 @@
 # Data Analyst | 10 yr in Quality Analyst 
 ---------------------------------------
 
-With 10yr of experience extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress as a Quality Analyst. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to venture into the DATA field as Data Analyst. 
+With 10yr of experience as a Sr.Data Analyst, I have extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to expand my horizon into the  DATA field as Data Analyst. 
 
 ## Skills: 
 - On job exposure in **SQL, Python, MongoDB**
@@ -17,7 +17,7 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 
 ## Working on
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
-* 🧠  I'm currently learning Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
+* 🧠  I'm currently also learning Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
 
 
 ##  
