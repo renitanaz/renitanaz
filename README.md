@@ -1,26 +1,12 @@
 # Hi, My name is Renita Nazareth
-----------------------------  
+ 
 
 # Data Analyst | 10 yr in Quality Analyst 
----------------------------------------
+
 
 With 10yr of experience as a Sr.Data Analyst, I have extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to expand my horizon into the  DATA field as Data Analyst. 
 
-## Skills: 
-- On job exposure in **SQL, Python, MongoDB**
-- Advanced skills in **EDA , Power BI , Snowflake**
-- Good understanding to **Statistics , Tableau**
-- Experience working in **Agile environment , Management tools , GIT**
-- Proven capabilities in **Presentation, Strong communication, team management , training peers**
-- Exposure to collaborating tools like **Jira,Confluence**
-- Aquired skills :**Quality, accuracy , eye for details**
 
-## Working on
-* 🔭 I’m currently working on building Churning dashboards in PowerBI
-* 🧠  I'm currently also learning Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
-
-
-##  
 ## 🛠  Technologies and tools
 
 ### 📖  What I am currently learning / improving on:
@@ -42,7 +28,7 @@ With 10yr of experience as a Sr.Data Analyst, I have extensively working with **
  
 
 
-###  What I am interested in learning next:
+### 👾   What I am interested in learning next:
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/tableau-282C34?logo=tableau" alt="tableau logo" title="tableau" height="25" /></a>
 &nbsp;
@@ -76,6 +62,17 @@ With 10yr of experience as a Sr.Data Analyst, I have extensively working with **
 <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp;
+
+## Non-Tool Skills: 
+- Experience working in **Agile environment , Management tools **
+- Proven capabilities in **Presentation, Strong communication, team management , training peers**
+- Exposure to collaborating tools like **Jira,Confluence**
+- Aquired skills :**Quality, accuracy , eye for details**
+
+## Working on
+* 🔭 I’m currently working on building Churning dashboards in PowerBI
+* 🧠  I'm currently also learning Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
+
 
 ## 
 * 💬  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
