@@ -29,15 +29,36 @@ With 10yr of experience extensively working with **SQL , Python , Excel** along 
 ### Tools of Trade
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/renitanaz/renitanaz/blob/6e60075b2b7858951f5896640f1d2d21bf6296d5/SkillImages/git.png" width="45" height="36" alt="Git" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Msql logo" width="60" height="60" /></a>
   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="60" height="60" /></a>
+
+<a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+<img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="PowerBI logo" width="100" height="60" /></a>
+
+<a href="https://www.microsoft.com/en-in/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL logo"width="60" height="60" /></a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo"width="60" height="60" /></a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy logo"width="80" height="80" /></a>
+
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://icons-for-free.com/iconfiles/png/512/microsoft+excel-1331135715061110002.png" alt="excel logo"width="60" height="60" /></a>
+
+<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" alt="Qlikview logo"width="80" height="60" />
+</a>
+
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+<img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/05/tableau-logo-USE-THIS-ONE.png" alt="tableu logo"width="120" height="50" />
+</a>
+
 </p>
-
-
 ### Reach me on
 
 <p align="left"> <a href="https://www.github.com/renitanaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/renita-nazareth-16aba590/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
