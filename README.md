@@ -65,7 +65,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 ## Non-Tool Skills: 
 - Experience working in **Agile environment , Management tools **
-- Proven capabilities in **Presentation, Strong communication, team management , training peers**
+- Proven capabilities in **Presentation, 🔈 Strong communication, team management , training peers**
 - Exposure to collaborating tools like **Jira,Confluence**
 - Aquired skills :**Quality, accuracy , eye for details**
 
