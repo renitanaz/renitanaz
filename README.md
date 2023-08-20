@@ -64,10 +64,10 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 &nbsp;
 
 ## Non-Tool Skills: 
-- Experience working in **Agile environment , Management tools **
-- Proven capabilities in **Presentation, 🔈 Strong communication, team management , training peers**
-- Exposure to collaborating tools like **Jira,Confluence**
-- Aquired skills :**Quality, accuracy , eye for details**
+- ### Experience working in **Agile environment , Management tools**
+- ### Proven capabilities in **Presentation, 🔈 Strong communication, 👥 team management , training peers**
+- ### Exposure to collaborating tools like  **Jira,Confluence**
+- ### Aquired skills : **Quality, accuracy , 🧐 eye for details**
 
 ## Working on
 * 🔭 I’m currently working on building Churning dashboards in PowerBI
