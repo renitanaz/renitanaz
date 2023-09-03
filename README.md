@@ -47,14 +47,13 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/microsoftexcel-282C34?logo=microsoftexcel&labelColor=%23217346" alt="R logo" title="R" height="25" /></a>
 &nbsp;
-
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/r-282C34?logo=r" alt="R logo" title="R" height="25" /></a>
+&nbsp;
 
 ### Previously worked with:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/python-282C34?logo=python" alt="py logo" title="py" height="25" /></a>
-&nbsp;
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/r-282C34?logo=r" alt="R logo" title="R" height="25" /></a>
 &nbsp;
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/selenium-282C34?logo=selenium" alt="selenium logo" title="selenium" height="25" /></a>
