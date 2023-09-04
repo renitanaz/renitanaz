@@ -9,15 +9,34 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 ## 🛠  Technologies and tools
 
-### 📖  What I am currently learning / improving on:
+### Previously worked with:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/snowflake-282C34?logo=snowflake" alt="snowflake logo" title="snowflake" height="25" /></a>
+<img src="https://img.shields.io/badge/python-282C34?logo=python" alt="py logo" title="py" height="25" /></a>
+&nbsp;
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/selenium-282C34?logo=selenium" alt="selenium logo" title="selenium" height="25" /></a>
+&nbsp;
+<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
+&nbsp;
+<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/MSSQL-black?logo=Microsoft%20SQL%20Server&logoColor=red" alt="qlik logo" title="qlik" height="25" /></a>
+&nbsp;
+
+### 📖  Aquired Skills:
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" /></a>
 &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/mysql-282C34?logo=mysql" alt="my SQL logo" title="mysql" height="25" /></a>
 &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" /></a>
+
+### 📖  What I am currently learning / improving on:
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/snowflake-282C34?logo=snowflake" alt="snowflake logo" title="snowflake" height="25" /></a>
+&nbsp;
+<a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/powerbi-282C34?logo=powerbi" alt="powerbi logo" title="powerbi" height="25" /></a>
 &nbsp;
 <a href="https://www.matillion.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/matillion-282C34?logo=matillion" alt="matilion logo" title="matilion" height="25" /></a>
@@ -25,16 +44,16 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/microsoftazure-282C34?logo=microsoftazure" alt="Azure logo" title="Azure" height="25" /></a>
 &nbsp;
- 
+<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
+&nbsp; 
 
 
 ### 👾   What I am interested in learning next:
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/tableau-282C34?logo=tableau" alt="tableau logo" title="tableau" height="25" /></a>
 &nbsp;
-<a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/powerbi-282C34?logo=powerbi" alt="powerbi logo" title="powerbi" height="25" /></a>
-&nbsp;
+
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/pandas-282C34?logo=pandas" alt="pandas logo" title="pandas" height="25" /></a>
 &nbsp;
@@ -51,21 +70,20 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <img src="https://img.shields.io/badge/r-282C34?logo=r" alt="R logo" title="R" height="25" /></a>
 &nbsp;
 
-### Previously worked with:
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/python-282C34?logo=python" alt="py logo" title="py" height="25" /></a>
-&nbsp;
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/selenium-282C34?logo=selenium" alt="selenium logo" title="selenium" height="25" /></a>
-&nbsp;
-<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
-&nbsp;
+
 
 ## Non-Tool Skills: 
 -  Experience working in **Agile environment , Management tools**
 -  Proven capabilities in **Presentation, 🔈 Strong communication, 👥 team management , training peers**
--  Exposure to collaborating tools like  **Jira,Confluence**
+-  Exposure to collaborating tools like :
+  
+   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/JIRA-black?logo=Jira&logoColor=%232a9df4" alt="R logo" title="R" height="25" /></a>
+&nbsp;
+ <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/confluence-black?logo=confluence&logoColor=%232a9df4" alt="R logo" title="R" height="25" /></a>
+&nbsp;
+
 -  Aquired skills : **Quality, accuracy , 🧐 eye for details**
 
 ## Working on
