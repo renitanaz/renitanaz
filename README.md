@@ -38,16 +38,15 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/powerbi-282C34?logo=powerbi" alt="powerbi logo" title="powerbi" height="25" /></a>
 &nbsp;
-<a href="https://www.matillion.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/matillion-282C34?logo=matillion" alt="matilion logo" title="matilion" height="25" /></a>
-&nbsp;
 <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/microsoftazure-282C34?logo=microsoftazure" alt="Azure logo" title="Azure" height="25" /></a>
 &nbsp;
 <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp; 
-
+<a href="https://www.matillion.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/matillion-black?logo=matillion&logoColor=%232a9df4" alt="qlik logo" title="qlik" height="25" /></a>
+&nbsp; 
 
 ### 👾   What I am interested in learning next:
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
