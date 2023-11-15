@@ -51,6 +51,9 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/microsoftexcel-282C34?logo=microsoftexcel&labelColor=%23217346" alt="R logo" title="R" height="25" /></a>
 &nbsp;
+<a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/alteryx-black?logo=alteryx&logoColor=white" alt="alteryx logo" title="alteryx" height="25" /></a>
+&nbsp;
 
 ### 👾   What I am interested in learning next:
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
