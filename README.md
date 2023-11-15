@@ -33,6 +33,9 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/snowflake-282C34?logo=snowflake" alt="snowflake logo" title="snowflake" height="25" /></a>
 &nbsp;
+<a href="https://www.matillion.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/matillion-black?logo=matillion&logoColor=%232a9df4" alt="qlik logo" title="qlik" height="25" /></a>
+&nbsp; 
 
 ### 📖  What I am currently learning / improving on:
 
@@ -45,9 +48,9 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp; 
-<a href="https://www.matillion.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/matillion-black?logo=matillion&logoColor=%232a9df4" alt="qlik logo" title="qlik" height="25" /></a>
-&nbsp; 
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/microsoftexcel-282C34?logo=microsoftexcel&labelColor=%23217346" alt="R logo" title="R" height="25" /></a>
+&nbsp;
 
 ### 👾   What I am interested in learning next:
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
@@ -63,9 +66,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/amazonaws-282C34?logo=amazonaws" alt="amazonaws logo" title="amazonaws" height="25" /></a>
 &nbsp;
-<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/microsoftexcel-282C34?logo=microsoftexcel&labelColor=%23217346" alt="R logo" title="R" height="25" /></a>
-&nbsp;
+
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/r-282C34?logo=r" alt="R logo" title="R" height="25" /></a>
 &nbsp;
