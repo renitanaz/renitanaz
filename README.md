@@ -30,11 +30,12 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/mysql-282C34?logo=mysql" alt="my SQL logo" title="mysql" height="25" /></a>
 &nbsp;
-
-### 📖  What I am currently learning / improving on:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/snowflake-282C34?logo=snowflake" alt="snowflake logo" title="snowflake" height="25" /></a>
 &nbsp;
+
+### 📖  What I am currently learning / improving on:
+
 <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/powerbi-282C34?logo=powerbi" alt="powerbi logo" title="powerbi" height="25" /></a>
 &nbsp;
