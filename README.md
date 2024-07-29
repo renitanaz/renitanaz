@@ -94,13 +94,13 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 -  Aquired skills : **Quality, accuracy , 🧐 eye for details**
 
 ## Working on
-* 🔭 I’m currently working on building  dashboards in different domains, upgrading to cloud technologies.
-* 🧠  I'm currently also learning Predictive Analytics, Domain knowledge - Finance, Marketing, Banking
+* 🔭 Upgrading to cloud technologies, ETL tools
+* 🧠  I'm currently also refreshing Automation frameworks
 
 
 ## 
 * 💬  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
-* 🤝  I'm open to collaborating on helping the fellow data newbie and build data communities
+* 🤝  I'm open to collaborating with anything related to Software Quality and Data Quality. 
   
 * ⚡  Pssst.... Other than data, I love travelling, crafting, soaping, running, Trill rides
 
