@@ -41,7 +41,9 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 
 ### 📖  What I am currently learning / improving on:
-
+<a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Cypress-blue?logoColor=black&label=cy&labelColor=%2369D3A7&color=black&link=https%3A%2F%2Fwww.javascript.com%2F" alt="powerbi logo" title="powerbi" height="25" /></a>
+&nbsp;
 <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/powerbi-282C34?logo=powerbi" alt="powerbi logo" title="powerbi" height="25" /></a>
 &nbsp;
