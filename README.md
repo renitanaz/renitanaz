@@ -9,7 +9,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 ## 🛠  Technologies and tools
 
-### Previously worked with:
+### On Job Skiills +📖  Aquired Skills::
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/python-282C34?logo=python" alt="py logo" title="py" height="25" /></a>
 &nbsp;
@@ -22,8 +22,6 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/MSSQL-black?logo=Microsoft%20SQL%20Server&logoColor=red" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp;
-
-### 📖  Aquired Skills:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="25" /></a>
 &nbsp;
