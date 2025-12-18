@@ -1,10 +1,9 @@
 # Hi, My name is Renita Nazareth
  
 
-# Data Analyst | 10 yr in Quality Analyst 
+# QA Strategist | 10 years in quality, training, data focused on the long game—detail, endurance, better products in collaboration with AI 🏃‍♂️. 🛠️
 
-
-With 10yr of experience as a Sr.Quality Analyst, I have extensively working with **SQL , Python , Excel** along with Selenium , JS , cypress. My inclination towards data ,my spark for SQL and my exposure to QlikView was a delight and so I have skilled up with  Power BI, Tableau , Snowflake , AWS to expand my horizon into the  DATA field as Data Analyst/Business Analyst/ Data Quality/ BI Quality. 
+My background is a mix of team management, manual/automation testing with wide exposure not limited to API, databases and Accessibility. I've spent my time navigating the complexity of enterprise apps and CMS platforms across both product and service environments. I’m a firm believer that good quality is about building better products. Currently leveling up my AI + QA + data game. 
 
 
 ## 🛠  Technologies and tools
@@ -60,9 +59,10 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 
 
-## Current Intrestes
+## Currently focusing on:
 * 🔭 AI in Testing activities
 * 🧠 AI in Test Automation
+* Accessibility Testing that tools can find and those they cannot.
 
 ## Non-Tool Skills: 
 -  Experience working in **Agile environment , Management tools**
@@ -80,8 +80,8 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 
 ## 
-* 💬  You can contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
-* 🤝  I'm open to collaborating with anything related to Software Quality and Data Quality. 
+* 💬  Contact me at [renita.naz@gmail.com](mailto:renita.naz@gmail.com)
+* 🤝  I'm open to collaborating with anything related to Software Quality , Data Quality and AI.
   
 * ⚡  Pssst.... Other than data, I love travelling, crafting, soaping, running, Trill rides
 
