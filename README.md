@@ -13,13 +13,13 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/python-282C34?logo=python" alt="py logo" title="py" height="25" /></a>
 &nbsp;
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/selenium-282C34?logo=selenium" alt="selenium logo" title="selenium" height="25" /></a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Playwright-white?label=Playwright&labelColor=%231c8a42&color=black&logo=playwright&logoColor=white" alt="Playwright logo" title="Playwright" height="25" /></a>
 &nbsp;
-<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
-&nbsp;
-<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/JavaScript-blue?label=JS&labelColor=%23F7DF1E&color=black&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JS logo" title="JS" height="25" /></a>
+&nbsp; 
+<a href="https://www.microsoft.com/en-in/sql-server" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/MSSQL-black?logo=Microsoft%20SQL%20Server&logoColor=red" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -31,18 +31,20 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/snowflake-282C34?logo=snowflake" alt="snowflake logo" title="snowflake" height="25" /></a>
 &nbsp;
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/selenium-282C34?logo=selenium" alt="selenium logo" title="selenium" height="25" /></a>
+&nbsp;
+<a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
+&nbsp;
 <a href="https://www.matillion.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/matillion-black?logo=matillion&logoColor=%232a9df4" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp; 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/JavaScript-blue?label=JS&labelColor=%23F7DF1E&color=black&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JS logo" title="JS" height="25" /></a>
-&nbsp; 
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Playwright-white?label=Playwright&labelColor=%231c8a42&color=black&logo=playwright&logoColor=white" alt="Playwright logo" title="Playwright" height="25" /></a>
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/microsoftexcel-282C34?logo=microsoftexcel&labelColor=%23217346" alt="R logo" title="R" height="25" /></a>
+&nbsp;
 
-
-
-### 📖  What I am currently  on:
+### 📖  Acquainted with:
 <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Cypress-blue?logoColor=black&label=cy&labelColor=%2369D3A7&color=black&link=https%3A%2F%2Fwww.javascript.com%2F" alt="powerbi logo" title="powerbi" height="25" /></a>
 &nbsp;
@@ -55,31 +57,12 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/qlik-282C34?logo=qlik" alt="qlik logo" title="qlik" height="25" /></a>
 &nbsp; 
-<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/microsoftexcel-282C34?logo=microsoftexcel&labelColor=%23217346" alt="R logo" title="R" height="25" /></a>
-&nbsp;
 
 
-### 👾   Upskilling in:
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/tableau-282C34?logo=tableau" alt="tableau logo" title="tableau" height="25" /></a>
-&nbsp;
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/pandas-282C34?logo=pandas" alt="pandas logo" title="pandas" height="25" /></a>
-&nbsp;
-<a href="https://numpy.org/" target="_blank" rel="noreferrer" 
-<img src="https://img.shields.io/badge/numpy-282C34?logo=numpy" alt="numpy logo" title="numpy" height="25" /></a>
-&nbsp;
-<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/amazonaws-282C34?logo=amazonaws" alt="amazonaws logo" title="amazonaws" height="25" /></a>
-&nbsp;
-
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/r-282C34?logo=r" alt="R logo" title="R" height="25" /></a>
-&nbsp;
-
-
+## Current Intrestes
+* 🔭 AI in Testing activities
+* 🧠 AI in Test Automation
 
 ## Non-Tool Skills: 
 -  Experience working in **Agile environment , Management tools**
@@ -94,10 +77,6 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 &nbsp;
 
 -  Aquired skills : **Quality, accuracy , 🧐 eye for details**
-
-## Working on
-* 🔭 Upgrading to cloud technologies, ETL tools
-* 🧠  I'm currently also refreshing Automation frameworks
 
 
 ## 
