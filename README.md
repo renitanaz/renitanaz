@@ -38,7 +38,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 <img src="https://img.shields.io/badge/JavaScript-blue?label=JS&labelColor=%23F7DF1E&color=black&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JS logo" title="JS" height="25" /></a>
 &nbsp; 
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Playwright-blue?label=Playwright&labelColor=%232EAD33&color=black&logo=playwright&logoColor=white" alt="Playwright logo" title="Playwright" height="25" /></a>
+<img src="https://img.shields.io/badge/Playwright-white?label=Playwright&labelColor=%231c8a42&color=black&logo=playwright&logoColor=white" alt="Playwright logo" title="Playwright" height="25" /></a>
 
 
 
