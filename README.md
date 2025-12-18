@@ -9,7 +9,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 ## 🛠  Technologies and tools
 
-### On Job Skiills +📖  Aquired Skills::
+### On Job Skiills :
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/python-282C34?logo=python" alt="py logo" title="py" height="25" /></a>
 &nbsp;
@@ -42,7 +42,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 
 
 
-### 📖  What I am currently learning / improving on:
+### 📖  What I am currently  on:
 <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Cypress-blue?logoColor=black&label=cy&labelColor=%2369D3A7&color=black&link=https%3A%2F%2Fwww.javascript.com%2F" alt="powerbi logo" title="powerbi" height="25" /></a>
 &nbsp;
@@ -60,7 +60,7 @@ With 10yr of experience as a Sr.Quality Analyst, I have extensively working with
 &nbsp;
 
 
-### 👾   What I am interested in learning next:
+### 👾   Upskilling in:
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/tableau-282C34?logo=tableau" alt="tableau logo" title="tableau" height="25" /></a>
 &nbsp;
