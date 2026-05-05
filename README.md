@@ -1,7 +1,7 @@
 # Hi, My name is Renita Nazareth
  
 
-# QA Strategist 🛠️ | 10 years in quality, training, data focused on the long game—detail, endurance, better products in collaboration with AI . 
+# QA Strategist 🛠️ | 10+ years in multiple facets of quality, now focussed on making systems/process more effecient with AI . 
 
 My background is a mix of team management, manual/automation testing with wide exposure not limited to API, databases and Accessibility. I've spent my time navigating the complexity of enterprise apps and CMS platforms across both product and service environments. I’m a firm believer that good quality is about building better products. Currently leveling up my AI + QA + data game. 
 
